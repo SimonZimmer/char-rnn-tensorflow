@@ -94,4 +94,6 @@ ENV/
 data.npy
 vocab.pkl
 
-*.txt
+# training sets
+**.txt
+
